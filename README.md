@@ -1,4 +1,4 @@
-# To-do-list_using-web
+# todo-list-web
 Lista de afazeres feito com a Tríade Web (HTML, CSS e JavaScript). 
 
 ![Screenshot](screenshot.png)
